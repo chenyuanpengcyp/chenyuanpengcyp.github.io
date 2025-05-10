@@ -7,7 +7,7 @@ first_name: Kun
 middle_name: 
 last_name: Zhan
 contact_note: >
-  Feel free to reach out via email or phone for collaborations, research discussions, or opportunities.
+  Feel free to reach out via email for collaborations, research discussions, or opportunities.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Kun Zhan's personal website. Autonomous driving expert, AI researcher, and cognitive intelligence lead at Li Auto.
 footer_text: >
@@ -50,7 +50,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 bib_search: true
 
