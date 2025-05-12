@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-{% google_scholar_citations_fetch site.data.socials.scholar_userid %}
-
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=1J061HIAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-zk__1028%40aliyun.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zk_1028@aliyun.com)
 [![Contact](https://img.shields.io/badge/Contact-Available%20on%20Request-25D366?style=flat&logo=whatsapp&logoColor=white)](mailto:zk_1028@aliyun.com)
@@ -60,9 +58,9 @@ Autonomous Driving Researcher, involved in developing computer vision and artifi
 ## 📚 Academic Achievements
 
 ### Citation Statistics
-- Total Citations: {% google_scholar_citations_count site.data.socials.scholar_userid %}
-- h-index: {% google_scholar_h_index site.data.socials.scholar_userid %}
-- i10-index: {% google_scholar_i10_index site.data.socials.scholar_userid %}
+- Total Citations: 465
+- h-index: 9
+- i10-index: 8
 
 ### Selected Publications
 
