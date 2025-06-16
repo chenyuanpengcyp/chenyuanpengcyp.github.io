@@ -2,7 +2,7 @@
 layout: page
 title: DriveVLM
 description: The convergence of autonomous driving and large vision-language models
-img: assets/img/drivevlm.jpg
+# img: assets/img/drivevlm.jpg
 importance: 1
 category: autonomous driving
 related_publications: true

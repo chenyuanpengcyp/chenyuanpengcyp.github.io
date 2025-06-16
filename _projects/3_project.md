@@ -2,7 +2,7 @@
 layout: page
 title: PlanAgent
 description: A multi-modal large language agent for closed-loop vehicle motion planning
-img: assets/img/planagent.jpg
+# img: assets/img/planagent.jpg
 importance: 3
 category: large language models
 related_publications: true

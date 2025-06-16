@@ -2,7 +2,7 @@
 layout: page
 title: Street Gaussians
 description: Modeling dynamic urban scenes with gaussian splatting
-img: assets/img/street_gaussians.jpg
+# img: assets/img/street_gaussians.jpg
 importance: 2
 category: computer vision
 related_publications: true
