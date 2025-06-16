@@ -54,14 +54,15 @@ def parse_publications(text):
         year_match = re.search(r'(19|20)\d{2}', info)
         year = year_match.group(0) if year_match else ''
         key = re.sub(r'[^A-Za-z0-9]+', '', title.split()[0]).lower() + year
-        pubs.append({
-            'key': key,
-            'title': title,
-            'authors': authors,
-            'year': year,
-            'link': link,
-            'gs_id': gs_id
-        })
+        if year:
+            pubs.append({
+                'key': key,
+                'title': title,
+                'authors': authors,
+                'year': year,
+                'link': link,
+                'gs_id': gs_id
+            })
         i = j + 1
     return pubs
 
