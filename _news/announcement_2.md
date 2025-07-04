@@ -1,11 +1,20 @@
 ---
 layout: post
-date: 2024-09-20 10:00:00-0800
-inline: true
+title: Street Gaussians accepted to ECCV 2024
+date: 2024-05-15 16:11:00-0400
+inline: false
 related_posts: false
 ---
 
-📄 Two papers accepted at **ECCV 2024**: "Street Gaussians" for dynamic urban scene modeling and "Tod3Cap" for 3D dense captioning in outdoor scenes!
+I'm excited to announce that our paper "Street Gaussians: Modeling Dynamic Urban Scenes with Gaussian Splatting" has been accepted to the European Conference on Computer Vision (ECCV) 2024!
+
+This work presents a novel approach for modeling dynamic urban scenes using 3D Gaussian Splatting, effectively capturing both static and dynamic elements in complex urban environments. Our method provides high-quality, real-time rendering capabilities while addressing challenges in representing moving objects, varying lighting conditions, and complex geometries.
+
+The paper demonstrates significant improvements in rendering quality and computational efficiency compared to previous methods, making it particularly valuable for autonomous driving simulation and training.
+
+We believe this work represents an important step forward in creating more realistic and efficient 3D representations of urban environments for autonomous driving applications.
+
+Stay tuned for our presentation at ECCV 2024!
 
 ---
 

@@ -9,15 +9,15 @@ profile:
   image: portrait.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p><i class="fas fa-envelope"></i> zk_1028@aliyun.com</p>
-    <p><i class="fab fa-weixin"></i> KevinZhan1990</p>
-    <p><i class="fas fa-map-marker-alt"></i> Beijing, China</p>
+    <p>Email: zk_1028@aliyun.com</p>
+    <p>WeChat: KevinZhan1990</p>
+    <p>Beijing, China</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -27,308 +27,70 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<div class="header-badges">
-  <a href="https://scholar.google.com/citations?user=1J061HIAAAAJ&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-465%20Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
-  </a>
-  <a href="mailto:zk_1028@aliyun.com">
-    <img src="https://img.shields.io/badge/Email-zk__1028%40aliyun.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/ZhanKunLiAuto" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=1J061HIAAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/Email-zk__1028%40aliyun.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zk_1028@aliyun.com)
+[![Contact](https://img.shields.io/badge/Contact-Available%20on%20Request-25D366?style=flat&logo=whatsapp&logoColor=white)](mailto:zk_1028@aliyun.com)
 
-## � Welcome!
+## 🔭 About Me
 
-I'm **Kun Zhan (詹锟)**, currently serving as the **Cognitive Intelligence Lead** at [Li Auto](https://www.lixiang.com/), where I lead a cutting-edge team focused on cognitive models, world models, and reinforcement learning for autonomous driving systems.
+Hello, I'm Kun Zhan. I currently serve as the Cognitive Intelligence Lead at Li Auto, where I lead a team focused on the research and implementation of cognitive models, world models, and reinforcement learning.
 
-<div class="row mt-3">
-    <div class="col-sm-4">
-        <div class="card hoverable">
-            <div class="card-body">
-                <h5 class="card-title text-center"><i class="fas fa-graduation-cap"></i> Citations</h5>
-                <h1 class="text-center">465+</h1>
-                <p class="text-center text-muted">Google Scholar</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-sm-4">
-        <div class="card hoverable">
-            <div class="card-body">
-                <h5 class="card-title text-center"><i class="fas fa-file-alt"></i> Publications</h5>
-                <h1 class="text-center">27+</h1>
-                <p class="text-center text-muted">Peer-reviewed</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-sm-4">
-        <div class="card hoverable">
-            <div class="card-body">
-                <h5 class="card-title text-center"><i class="fas fa-lightbulb"></i> Patents</h5>
-                <h1 class="text-center">18</h1>
-                <p class="text-center text-muted">CN: 16, US: 2</p>
-            </div>
-        </div>
-    </div>
-</div>
+My research "ambitions" are vast: autonomous driving, computer vision, 3D vision, large language models, embodied intelligence... Essentially, I'm passionate about any technology that can make vehicles "smarter"! I'm particularly fascinated by implementing cutting-edge AI technologies into robots and vehicles, turning science fiction scenarios into reality and working toward an autonomous future.
 
----
+For me, technological innovation isn't just about theoretical breakthroughs—it's about practical applications that can genuinely transform how people travel. I hope to contribute to the advancement of autonomous driving technology through continuous exploration.
 
-## 🎯 Research Interests
+## 🌟 Research Interests
 
-My research spans the intersection of **autonomous driving**, **computer vision**, and **artificial intelligence**. I'm passionate about transforming cutting-edge AI technologies into practical solutions that revolutionize transportation.
+- **Autonomous Driving**: End-to-end autonomous driving systems, decision-making and planning
+- **Computer Vision**: Object detection and tracking, scene understanding
+- **3D Vision**: 3D perception, reconstruction, and modeling
+- **Large Language Models**: Applications of multimodal large models in autonomous driving
+- **World Models**: Environment modeling and prediction, reinforcement learning
 
-<div class="row">
-    <div class="col-md-6">
-        <div class="research-area">
-            <h4><i class="fas fa-car"></i> Autonomous Driving</h4>
-            <ul>
-                <li>End-to-end autonomous driving systems</li>
-                <li>Decision-making and motion planning</li>
-                <li>Reinforcement learning for AD</li>
-            </ul>
-        </div>
-    </div>
-    <div class="col-md-6">
-        <div class="research-area">
-            <h4><i class="fas fa-eye"></i> Computer Vision</h4>
-            <ul>
-                <li>3D perception and reconstruction</li>
-                <li>Object detection and tracking</li>
-                <li>Scene understanding</li>
-            </ul>
-        </div>
-    </div>
-    <div class="col-md-6">
-        <div class="research-area">
-            <h4><i class="fas fa-brain"></i> AI & Machine Learning</h4>
-            <ul>
-                <li>Large language models for AD</li>
-                <li>World models and simulation</li>
-                <li>Multimodal learning</li>
-            </ul>
-        </div>
-    </div>
-    <div class="col-md-6">
-        <div class="research-area">
-            <h4><i class="fas fa-robot"></i> Embodied Intelligence</h4>
-            <ul>
-                <li>Cognitive models for robotics</li>
-                <li>Environmental modeling</li>
-                <li>Human-robot interaction</li>
-            </ul>
-        </div>
-    </div>
-</div>
+## 💼 Work Experience
 
----
+### Li Auto | April 2021 - Present
+Cognitive Intelligence Lead, directing a team in developing cutting-edge autonomous driving technologies, with a focus on cognitive models, world models, and reinforcement learning research and implementation.
 
-## 💼 Professional Experience
+### Baidu | April 2016 - March 2021
+Autonomous Driving Researcher, involved in developing computer vision and artificial intelligence solutions for autonomous vehicles.
 
-<div class="experience-timeline">
-    <div class="timeline-item">
-        <div class="timeline-marker"></div>
-        <div class="timeline-content">
-            <h4>Li Auto <span class="text-muted">| April 2021 - Present</span></h4>
-            <h5>Cognitive Intelligence Lead</h5>
-            <p>Leading a team of researchers and engineers in developing state-of-the-art autonomous driving technologies. Focus on cognitive models, world models, and reinforcement learning for next-generation intelligent vehicles.</p>
-            <div class="badge-container">
-                <span class="badge badge-primary">Team Leadership</span>
-                <span class="badge badge-primary">Research Strategy</span>
-                <span class="badge badge-primary">Product Innovation</span>
-            </div>
-        </div>
-    </div>
-    <div class="timeline-item">
-        <div class="timeline-marker"></div>
-        <div class="timeline-content">
-            <h4>Baidu <span class="text-muted">| April 2016 - March 2021</span></h4>
-            <h5>Autonomous Driving Researcher</h5>
-            <p>Developed computer vision and AI solutions for autonomous vehicles. Contributed to multiple key projects in perception, planning, and control systems.</p>
-            <div class="badge-container">
-                <span class="badge badge-secondary">Computer Vision</span>
-                <span class="badge badge-secondary">Deep Learning</span>
-                <span class="badge badge-secondary">System Design</span>
-            </div>
-        </div>
-    </div>
-</div>
+## 📚 Academic Achievements
 
----
+### Citation Statistics
+- Total Citations: 465
+- h-index: 9
+- i10-index: 8
 
-## 📚 Featured Publications
+### Selected Publications
 
-I have published extensively in top-tier conferences and journals. Here are some of my recent highlights:
+1. **Drivevlm: The convergence of autonomous driving and large vision-language models** (2024)
+   X Tian, J Gu, B Li, Y Liu, Y Wang, Z Zhao, **K Zhan**, P Jia, X Lang, H Zhao
+   *arXiv preprint arXiv:2402.12289* | Citations: 107
 
-<div class="publications-highlight">
-    <div class="pub-item">
-        <h5>🏆 DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models</h5>
-        <p class="text-muted">X Tian, J Gu, B Li, Y Liu, Y Wang, Z Zhao, <strong>K Zhan</strong>, P Jia, X Lang, H Zhao</p>
-        <p><i class="fas fa-quote-left"></i> Citations: <strong>107</strong> | arXiv 2024</p>
-    </div>
-    <div class="pub-item">
-        <h5>🏆 Street Gaussians: Modeling Dynamic Urban Scenes with Gaussian Splatting</h5>
-        <p class="text-muted">Y Yan, H Lin, C Zhou, W Wang, H Sun, <strong>K Zhan</strong>, X Lang, X Zhou, S Peng</p>
-        <p><i class="fas fa-quote-left"></i> Citations: <strong>102</strong> | ECCV 2024</p>
-    </div>
-</div>
+2. **Street gaussians: Modeling dynamic urban scenes with gaussian splatting** (2024)
+   Y Yan, H Lin, C Zhou, W Wang, H Sun, **K Zhan**, X Lang, X Zhou, S Peng
+   *European Conference on Computer Vision, 156-173* | Citations: 102
 
-<div class="text-center mt-4">
-    <a href="/publications/" class="btn btn-primary">View All Publications →</a>
-</div>
+3. **Planagent: A multi-modal large language agent for closed-loop vehicle motion planning** (2024)
+   Y Zheng, Z Xing, Q Zhang, B Jin, P Li, Y Zheng, Z Xia, **K Zhan**, X Lang, D Zhao
+   *arXiv preprint arXiv:2406.01587* | Citations: 12
 
----
+4. **Tod3cap: Towards 3d dense captioning in outdoor scenes** (2024)
+   B Jin, Y Zheng, P Li, W Li, Y Zheng, S Hu, X Liu, J Zhu, Z Yan, H Sun, **K Zhan**, X Lang, P Jia
+   *European Conference on Computer Vision, 367-384* | Citations: 10
 
-## 🏅 Academic Service
+5. **Unleashing generalization of end-to-end autonomous driving with controllable long video generation** (2024)
+   E Ma, L Zhou, T Tang, Z Zhang, D Han, J Jiang, **K Zhan**, P Jia, X Lang, K Yu
+   *arXiv preprint arXiv:2406.01349* | Citations: 9
 
-<div class="row">
-    <div class="col-md-6">
-        <h4>Conference Reviewer</h4>
-        <ul>
-            <li>CVPR (Computer Vision and Pattern Recognition)</li>
-            <li>ICCV (International Conference on Computer Vision)</li>
-            <li>ECCV (European Conference on Computer Vision)</li>
-            <li>NeurIPS (Neural Information Processing Systems)</li>
-            <li>AAAI (Association for the Advancement of AI)</li>
-        </ul>
-    </div>
-    <div class="col-md-6">
-        <h4>Journal Reviewer</h4>
-        <ul>
-            <li>IEEE TPAMI</li>
-            <li>IEEE T-ITS</li>
-            <li>IEEE T-IV</li>
-        </ul>
-        <h4>Workshop Organizer</h4>
-        <ul>
-            <li>Autonomous Driving Workshop @ CVPR 2023</li>
-        </ul>
-    </div>
-</div>
+### Patents
+- 16 Chinese Patents
+- 2 US Patents
 
----
-
-## 📬 Get in Touch
-
-I'm always open to discussing research collaborations, innovative ideas, and opportunities in autonomous driving and AI. Feel free to reach out!
-
-<div class="contact-buttons text-center">
-    <a href="mailto:zk_1028@aliyun.com" class="btn btn-outline-primary mx-2">
-        <i class="fas fa-envelope"></i> Email Me
-    </a>
-    <a href="https://scholar.google.com/citations?user=1J061HIAAAAJ&hl=en" class="btn btn-outline-primary mx-2" target="_blank">
-        <i class="fas fa-graduation-cap"></i> Google Scholar
-    </a>
-    <a href="https://github.com/ZhanKunLiAuto" class="btn btn-outline-primary mx-2" target="_blank">
-        <i class="fab fa-github"></i> GitHub
-    </a>
-</div>
-
-<style>
-.header-badges {
-    text-align: center;
-    margin-bottom: 2rem;
-}
-
-.header-badges a {
-    margin: 0 0.5rem;
-    text-decoration: none;
-}
-
-.research-area {
-    background: var(--global-bg-color);
-    border: 1px solid var(--global-divider-color);
-    border-radius: 8px;
-    padding: 1.5rem;
-    margin-bottom: 1.5rem;
-    transition: all 0.3s ease;
-}
-
-.research-area:hover {
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    transform: translateY(-2px);
-}
-
-.research-area h4 {
-    color: var(--global-theme-color);
-    margin-bottom: 1rem;
-}
-
-.timeline-item {
-    position: relative;
-    padding-left: 3rem;
-    margin-bottom: 2rem;
-}
-
-.timeline-marker {
-    position: absolute;
-    left: 0;
-    top: 0.5rem;
-    width: 12px;
-    height: 12px;
-    background: var(--global-theme-color);
-    border-radius: 50%;
-}
-
-.timeline-content {
-    background: var(--global-bg-color);
-    border: 1px solid var(--global-divider-color);
-    border-radius: 8px;
-    padding: 1.5rem;
-}
-
-.badge-container {
-    margin-top: 1rem;
-}
-
-.badge {
-    margin-right: 0.5rem;
-    margin-bottom: 0.5rem;
-}
-
-.publications-highlight {
-    background: var(--global-bg-color);
-    border: 1px solid var(--global-divider-color);
-    border-radius: 8px;
-    padding: 2rem;
-}
-
-.pub-item {
-    margin-bottom: 1.5rem;
-    padding-bottom: 1.5rem;
-    border-bottom: 1px solid var(--global-divider-color);
-}
-
-.pub-item:last-child {
-    margin-bottom: 0;
-    padding-bottom: 0;
-    border-bottom: none;
-}
-
-.contact-buttons {
-    margin-top: 2rem;
-}
-
-.card.hoverable {
-    transition: all 0.3s ease;
-}
-
-.card.hoverable:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 16px rgba(0,0,0,0.15);
-}
-
-@media (max-width: 768px) {
-    .timeline-item {
-        padding-left: 2rem;
-    }
-    
-    .header-badges img {
-        max-width: 100%;
-        margin-bottom: 0.5rem;
-    }
-}
-</style>
+### Academic Service
+- **Program Committee/Reviewer**: CVPR, ICCV, ECCV, NeurIPS, AAAI
+- **Journal Reviewer**: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Intelligent Transportation Systems (T-ITS), IEEE Transactions on Intelligent Vehicles (T-IV)
+- **Workshop Organizer**: Autonomous Driving Workshop at CVPR 2023
 
 
