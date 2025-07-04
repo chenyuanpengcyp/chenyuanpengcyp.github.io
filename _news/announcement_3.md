@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-06-05 07:59:00-0400
+date: 2024-08-10 10:00:00-0800
 inline: true
 related_posts: false
 ---
 
-New preprint: "PlanAgent: A Multi-modal Large Language Agent for Closed-loop Vehicle Motion Planning" is now available on arXiv. This work introduces a novel approach for autonomous vehicle planning using large language models.
+🎯 Leading the Cognitive Intelligence team at Li Auto to develop next-generation world models and reinforcement learning systems for autonomous driving.
