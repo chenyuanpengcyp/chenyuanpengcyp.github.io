@@ -33,15 +33,15 @@ latest_posts:
 
 ## 🔭 About Me
 
-Hello, I'm Kun Zhan. I currently serve as the Cognitive Intelligence Lead at Li Auto, where I lead a team focused on the research and implementation of cognitive models, world models, and reinforcement learning.
+I am **Kun Zhan**, Cognitive Intelligence Lead at **Li Auto** and Site Manager of the company’s new U.S. R\&D Center.
 
-My research "ambitions" are vast: autonomous driving, computer vision, 3D vision, large language models, embodied intelligence... Essentially, I'm passionate about any technology that can make vehicles "smarter"! I'm particularly fascinated by implementing cutting-edge AI technologies into robots and vehicles, turning science fiction scenarios into reality and working toward an autonomous future.
+At Li Auto, I own the **Vision-Language-Action (VLA)** algorithm roadmap—directing perception, planning, large-scale model training, and vehicle-grade deployment. My work has advanced from end-to-end driving (E2E) and vision-language models (VLM) to the full VLA stack, and I lead world-model research that powers end-to-end simulation, synthetic-data generation, and reinforcement learning.
 
-For me, technological innovation isn't just about theoretical breakthroughs—it's about practical applications that can genuinely transform how people travel. I hope to contribute to the advancement of autonomous driving technology through continuous exploration.
+My mission is to close the gap between breakthrough AI and everyday mobility. By translating cutting-edge computer vision, 3D perception, multimodal foundation models, and reinforcement learning into production vehicles and robots, I strive to deliver safer, smarter, truly autonomous transportation.
 
 ## 🌟 Research Interests
 
-- **Autonomous Driving**: End-to-end autonomous driving systems, decision-making and planning
+- **Autonomous Driving**: Vision-Language-Action(VLA) Model, End-to-end autonomous driving systems, decision-making and planning
 - **Computer Vision**: Object detection and tracking, scene understanding
 - **3D Vision**: 3D perception, reconstruction, and modeling
 - **Large Language Models**: Applications of multimodal large models in autonomous driving
@@ -49,40 +49,49 @@ For me, technological innovation isn't just about theoretical breakthroughs—it
 
 ## 💼 Work Experience
 
-### Li Auto | April 2021 - Present
-Cognitive Intelligence Lead, directing a team in developing cutting-edge autonomous driving technologies, with a focus on cognitive models, world models, and reinforcement learning research and implementation.
+### **Li Auto** | Apr 2021 – Present
+**Cognitive Intelligence Lead & VLA Algorithm Owner**
+- Direct a more than 100-person org covering perception, planning, foundation-model training, and on-vehicle inference.
+- Delivered three generations of AI stacks (E2E → VLM → VLA) into mass-production pipelines.
+- Established and lead a dedicated world-model group for reinforcement learning and closed-loop simulation.
 
-### Baidu | April 2016 - March 2021
-Autonomous Driving Researcher, involved in developing computer vision and artificial intelligence solutions for autonomous vehicles.
+**Site Manager, U.S. R&D Center (San Jose, CA)**
+- Built Li Auto’s overseas research hub.
+- Own local strategy, budgeting, and cross-border collaboration with Beijing HQ, accelerating global talent acquisition and technology transfer.
+
+### **Baidu L4 Team** | Apr 2016 – Mar 2021
+**Autonomous-Driving Research Scientist**
+- Developed planning-and-control (PnC) algorithms and deep-learning perception modules for L4 robo-taxi pilots(Apollo).
 
 ## 📚 Academic Achievements
 
 ### Citation Statistics
-- Total Citations: 465
-- h-index: 9
-- i10-index: 8
+- Top Papers: 32
+- Total Citations: 677
+- h-index: 10
+- i10-index: 10
 
 ### Selected Publications
 
 1. **Drivevlm: The convergence of autonomous driving and large vision-language models** (2024)
    X Tian, J Gu, B Li, Y Liu, Y Wang, Z Zhao, **K Zhan**, P Jia, X Lang, H Zhao
-   *arXiv preprint arXiv:2402.12289* | Citations: 107
+   *arXiv preprint arXiv:2402.12289* | Citations: 255
 
 2. **Street gaussians: Modeling dynamic urban scenes with gaussian splatting** (2024)
    Y Yan, H Lin, C Zhou, W Wang, H Sun, **K Zhan**, X Lang, X Zhou, S Peng
-   *European Conference on Computer Vision, 156-173* | Citations: 102
+   *European Conference on Computer Vision, 156-173* | Citations: 211
 
 3. **Planagent: A multi-modal large language agent for closed-loop vehicle motion planning** (2024)
    Y Zheng, Z Xing, Q Zhang, B Jin, P Li, Y Zheng, Z Xia, **K Zhan**, X Lang, D Zhao
-   *arXiv preprint arXiv:2406.01587* | Citations: 12
+   *arXiv preprint arXiv:2406.01587* | Citations: 31
 
-4. **Tod3cap: Towards 3d dense captioning in outdoor scenes** (2024)
-   B Jin, Y Zheng, P Li, W Li, Y Zheng, S Hu, X Liu, J Zhu, Z Yan, H Sun, **K Zhan**, X Lang, P Jia
-   *European Conference on Computer Vision, 367-384* | Citations: 10
-
-5. **Unleashing generalization of end-to-end autonomous driving with controllable long video generation** (2024)
+4. **Unleashing generalization of end-to-end autonomous driving with controllable long video generation** (2024)
    E Ma, L Zhou, T Tang, Z Zhang, D Han, J Jiang, **K Zhan**, P Jia, X Lang, K Yu
-   *arXiv preprint arXiv:2406.01349* | Citations: 9
+   *arXiv preprint arXiv:2406.01349* | Citations: 27
+
+5. **Tod3cap: Towards 3d dense captioning in outdoor scenes** (2024)
+   B Jin, Y Zheng, P Li, W Li, Y Zheng, S Hu, X Liu, J Zhu, Z Yan, H Sun, **K Zhan**, X Lang, P Jia
+   *European Conference on Computer Vision, 367-384* | Citations: 22
 
 ### Patents
 - 16 Chinese Patents
@@ -92,5 +101,3 @@ Autonomous Driving Researcher, involved in developing computer vision and artifi
 - **Program Committee/Reviewer**: CVPR, ICCV, ECCV, NeurIPS, AAAI
 - **Journal Reviewer**: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Intelligent Transportation Systems (T-ITS), IEEE Transactions on Intelligent Vehicles (T-IV)
 - **Workshop Organizer**: Autonomous Driving Workshop at CVPR 2023
-
-
