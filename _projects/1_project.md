@@ -24,11 +24,11 @@ DriveVLM represents a significant advancement in autonomous driving technology b
 
 DriveVLM has garnered significant attention in the autonomous driving community, with over 100 citations since its publication. The approach demonstrates how large language models can be effectively applied to complex real-world systems like autonomous vehicles.
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/drivevlm_arch.jpg" title="DriveVLM Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
+</div> -->
 <div class="caption">
     The architecture of DriveVLM, showing how visual perception is integrated with language understanding.
 </div>

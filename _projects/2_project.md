@@ -27,11 +27,11 @@ The approach demonstrates significant improvements in:
 - Handling of complex urban scenes
 - Support for dynamic elements
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/street_gaussians_vis.jpg" title="Street Gaussians Visualization" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
+</div> -->
 <div class="caption">
     Visualization of dynamic urban scene modeling using Street Gaussians.
 </div>

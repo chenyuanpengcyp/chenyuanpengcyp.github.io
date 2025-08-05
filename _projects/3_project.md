@@ -27,11 +27,11 @@ The system demonstrates several key advancements:
 - Real-time adaptation to changing scenarios
 - Improved interpretability of autonomous decisions
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/planagent_arch.jpg" title="PlanAgent Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
+</div> -->
 <div class="caption">
     The architecture of PlanAgent, showing how language models are integrated with motion planning.
 </div>
