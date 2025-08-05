@@ -33,7 +33,7 @@ latest_posts:
 
 ## 🔭 About Me
 
-I am **Kun Zhan**, Cognitive Intelligence Lead at Li Auto and Site Manager of the company’s new U.S. R\&D Center.
+I am **Kun Zhan**, Cognitive Intelligence Lead at Li Auto and Site Manager of the company’s new U.S. R&D Center.
 
 At Li Auto, I own the Vision-Language-Action (VLA) algorithm roadmap—directing perception, planning, large-scale model training, and vehicle-grade deployment. My work has advanced from end-to-end driving (E2E) and vision-language models (VLM) to the full VLA stack, and I lead world-model research that powers end-to-end simulation, synthetic-data generation, and reinforcement learning.
 
