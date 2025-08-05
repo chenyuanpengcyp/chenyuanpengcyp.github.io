@@ -33,9 +33,9 @@ latest_posts:
 
 ## 🔭 About Me
 
-I am **Kun Zhan**, Cognitive Intelligence Lead at **Li Auto** and Site Manager of the company’s new U.S. R\&D Center.
+I am **Kun Zhan**, Cognitive Intelligence Lead at Li Auto and Site Manager of the company’s new U.S. R\&D Center.
 
-At Li Auto, I own the **Vision-Language-Action (VLA)** algorithm roadmap—directing perception, planning, large-scale model training, and vehicle-grade deployment. My work has advanced from end-to-end driving (E2E) and vision-language models (VLM) to the full VLA stack, and I lead world-model research that powers end-to-end simulation, synthetic-data generation, and reinforcement learning.
+At Li Auto, I own the Vision-Language-Action (VLA) algorithm roadmap—directing perception, planning, large-scale model training, and vehicle-grade deployment. My work has advanced from end-to-end driving (E2E) and vision-language models (VLM) to the full VLA stack, and I lead world-model research that powers end-to-end simulation, synthetic-data generation, and reinforcement learning.
 
 My mission is to close the gap between breakthrough AI and everyday mobility. By translating cutting-edge computer vision, 3D perception, multimodal foundation models, and reinforcement learning into production vehicles and robots, I strive to deliver safer, smarter, truly autonomous transportation.
 
@@ -54,14 +54,16 @@ My mission is to close the gap between breakthrough AI and everyday mobility. By
 - Direct a more than 100-person org covering perception, planning, foundation-model training, and on-vehicle inference.
 - Delivered three generations of AI stacks (E2E → VLM → VLA) into mass-production pipelines.
 - Established and lead a dedicated world-model group for reinforcement learning and closed-loop simulation.
+- Previously headed the Prediction, Static BEV, Driving Perception, and Large-Model teams. 
 
 **Site Manager, U.S. R&D Center (San Jose, CA)**
 - Built Li Auto’s overseas research hub.
 - Own local strategy, budgeting, and cross-border collaboration with Beijing HQ, accelerating global talent acquisition and technology transfer.
 
 ### **Baidu L4 Team** | Apr 2016 – Mar 2021
-**Autonomous-Driving Research Scientist**
-- Developed planning-and-control (PnC) algorithms and deep-learning perception modules for L4 robo-taxi pilots(Apollo).
+**Autonomous-Driving Engineering**
+- Served as Algorithm Lead for Prediction; designed L4 prediction pre-decision algorithms for robo-taxi operations.
+- Developed planning-and-control (PnC) algorithms and deep-learning onboard modules for L4 pilots.
 
 ## 📚 Academic Achievements
 
