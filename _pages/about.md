@@ -50,7 +50,7 @@ My mission is to close the gap between breakthrough AI and everyday mobility. By
 ## 💼 Work Experience
 
 ### **Li Auto** | Apr 2021 – Present
-**Cognitive Intelligence Lead & VLA Algorithm Owner**
+**Cognitive Intelligence Lead, VLA Algorithm Owner**
 - Direct a more than 100-person org covering perception, planning, foundation-model training, and on-vehicle inference.
 - Delivered three generations of AI stacks (E2E → VLM → VLA) into mass-production pipelines.
 - Established and lead a dedicated world-model group for reinforcement learning and closed-loop simulation.
@@ -60,8 +60,8 @@ My mission is to close the gap between breakthrough AI and everyday mobility. By
 - Built Li Auto’s overseas research hub.
 - Own local strategy, budgeting, and cross-border collaboration with Beijing HQ, accelerating global talent acquisition and technology transfer.
 
-### **Baidu L4 Team** | Apr 2016 – Mar 2021
-**Autonomous-Driving Engineering**
+### **Baidu** | Apr 2016 – Mar 2021
+**Autonomous-Driving Engineering, Apollo L4 Team**
 - Served as Algorithm Lead for Prediction; designed L4 prediction pre-decision algorithms for robo-taxi operations.
 - Developed planning-and-control (PnC) algorithms and deep-learning onboard modules for L4 pilots.
 
