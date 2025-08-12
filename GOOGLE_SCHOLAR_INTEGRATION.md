@@ -15,10 +15,11 @@ This Jekyll site now includes automatic Google Scholar statistics fetching funct
 ## Configuration
 
 1. Add your Google Scholar ID to `_config.yml`:
+
    ```yaml
    google_scholar_id: YOUR_SCHOLAR_ID
    ```
-   
+
    You can find your Scholar ID in your Google Scholar profile URL:
    `https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID&hl=en`
 
@@ -31,10 +32,8 @@ In your Jekyll pages or posts, use the following Liquid tags:
 ```liquid
 {% assign scholar_stats = site.google_scholar_id | google_scholar_stats %}
 
-- Papers: {% scholar_stat scholar_stats papers %}
-- Citations: {% scholar_stat scholar_stats citations %}
-- h-index: {% scholar_stat scholar_stats h_index %}
-- i10-index: {% scholar_stat scholar_stats i10_index %}
+- Papers: {% scholar_stat scholar_stats papers %} - Citations: {% scholar_stat scholar_stats citations %} - h-index:
+{% scholar_stat scholar_stats h_index %} - i10-index: {% scholar_stat scholar_stats i10_index %}
 ```
 
 ## Cache Management
@@ -53,6 +52,7 @@ To test the Google Scholar integration locally:
 ## Troubleshooting
 
 If the stats show "N/A":
+
 1. Check your Google Scholar ID is correct
 2. Ensure your profile is public
 3. Check for rate limiting (wait a few minutes and try again)
