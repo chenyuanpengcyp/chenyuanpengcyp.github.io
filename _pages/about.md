@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+lang: en
 subtitle: Cognitive Intelligence Lead at <a href='https://www.lixiang.com/'>Li Auto</a> | Autonomous Driving Expert | AI Researcher
 
 profile:
@@ -54,7 +55,7 @@ My mission is to close the gap between breakthrough AI and everyday mobility. By
 - Direct a more than 100-person org covering perception, planning, foundation-model training, and on-vehicle inference.
 - Delivered three generations of AI stacks (E2E → VLM → VLA) into mass-production pipelines.
 - Established and lead a dedicated world-model group for reinforcement learning and closed-loop simulation.
-- Previously headed the Prediction, Static BEV, Driving Perception, and Large-Model teams. 
+- Previously headed the Prediction, Static BEV, Driving Perception, and Large-Model teams.
 
 **Site Manager, U.S. R&D Center (San Jose, CA)**
 - Built Li Auto’s overseas research hub.
