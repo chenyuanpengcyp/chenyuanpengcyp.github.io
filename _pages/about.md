@@ -36,7 +36,7 @@ latest_posts:
 
 I’m **Kun Zhan**, Senior Director of Vision-Language-Action (VLA) team at Li Auto, as well as the Site Manager of Li Auto’s U.S. R&D Center in Silicon Valley.
 
-I received my bachelor’s degree in Automation from Beihang University. I joined Baidu Apollo in 2017, leading work on behavior prediction. In 2021, I joined Li Auto to build our autonomous-driving technology stack from the ground up. Since then, our team has delivered a series of milestones — Highway NoA (2022), City NoA (2023), End-to-End + VLM dual-system architecture (2024), and the VLA framework (2025).
+I received my master’s degree in Automation from Beihang University. I joined Baidu Apollo in 2017, leading work on behavior prediction. In 2021, I joined Li Auto to build our autonomous-driving technology stack from the ground up. Since then, our team has delivered a series of milestones — Highway NoA (2022), City NoA (2023), End-to-End + VLM dual-system architecture (2024), and the VLA framework (2025).
 
 Over the years, I’ve led development across the full autonomous-driving pipeline — from behavior prediction and static/dynamic perception to large-scale foundation-model research in world models, VLMs, and reinforcement learning. Our team pioneered the dual-system architecture that unifies large-model cognition with engineering reliability.
 
@@ -49,7 +49,7 @@ My long-term mission is to realize physical world AGI — autonomous driving is 
 - **Computer Vision**: Object detection and tracking, scene understanding
 - **3D Vision**: 3D perception, reconstruction, and modeling
 - **Large Language Models**: Applications of multimodal large models in autonomous driving
-- **World Models**: Environment modeling and prediction, reinforcement learning
+- **World Models**: Environment reconstruction and generation, reinforcement learning
 
 ## 💼 Work Experience
 
