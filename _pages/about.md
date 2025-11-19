@@ -72,32 +72,32 @@ My long-term mission is to realize physical world AGI — autonomous driving is 
 ## 📚 Academic Achievements
 
 ### Citation Statistics
-- Top Papers: 36
-- Total Citations: 868
+- Top Papers: 39
+- Total Citations: 969
 - h-index: 12
-- i10-index: 14
+- i10-index: 15
 
 ### Selected Publications
 
 1. **Drivevlm: The convergence of autonomous driving and large vision-language models** (2024)
    X Tian, J Gu, B Li, Y Liu, Y Wang, Z Zhao, **K Zhan**, P Jia, X Lang, H Zhao
-   *arXiv preprint arXiv:2402.12289* | Citations: 308
+   *arXiv preprint arXiv:2402.12289*
 
 2. **Street gaussians: Modeling dynamic urban scenes with gaussian splatting** (2024)
    Y Yan, H Lin, C Zhou, W Wang, H Sun, **K Zhan**, X Lang, X Zhou, S Peng
-   *European Conference on Computer Vision, 156-173* | Citations: 250
+   *European Conference on Computer Vision, 156-173*
 
 3. **Planagent: A multi-modal large language agent for closed-loop vehicle motion planning** (2024)
    Y Zheng, Z Xing, Q Zhang, B Jin, P Li, Y Zheng, Z Xia, **K Zhan**, X Lang, D Zhao
-   *arXiv preprint arXiv:2406.01587* | Citations: 37
+   *arXiv preprint arXiv:2406.01587*
 
 4. **Unleashing generalization of end-to-end autonomous driving with controllable long video generation** (2024)
    E Ma, L Zhou, T Tang, Z Zhang, D Han, J Jiang, **K Zhan**, P Jia, X Lang, K Yu
-   *arXiv preprint arXiv:2406.01349* | Citations: 33
+   *arXiv preprint arXiv:2406.01349*
 
 5. **Recondreamer: Crafting world models for driving scene reconstruction via online restoration** (2025)
    C Ni, G Zhao, X Wang, Z Zhu, W Qin, G Huang, C Liu, Y Chen, Y Wang, **K Zhan**, X Lang, X Wang, W Mei
-   *Proceedings of the Computer Vision and Pattern Recognition Conference, 1559-1569* | Citations: 29
+   *Proceedings of the Computer Vision and Pattern Recognition Conference, 1559-1569*
 
 ### Patents
 - 18 Chinese Patents
