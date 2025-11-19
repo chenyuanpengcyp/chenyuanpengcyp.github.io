@@ -1,9 +1,16 @@
 ---
 layout: about
-title: about
+title: Kun Zhan | Li Auto VLA
 permalink: /
 lang: en
-subtitle: Senior Director of VLA Models at <a href='https://www.lixiang.com/'>Li Auto</a> | Autonomous Driving Expert | AI Researcher
+subtitle: Senior Director of VLA Models at <a href='https://www.lixiang.com/'>Li Auto</a>
+description: Kun Zhan is Senior Director of the Vision-Language-Action organization at Li Auto, leading mass-production autonomous-driving systems and foundation models.
+keywords:
+  - Kun Zhan
+  - Li Auto
+  - Vision-Language-Action
+  - Autonomous Driving
+  - AI Leadership
 
 profile:
   align: right
@@ -15,7 +22,7 @@ profile:
     <p>Beijing, China</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -27,83 +34,84 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<div class="about-badges">
+  <a href="https://scholar.google.com/citations?user=1J061HIAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar">
+  </a>
+  <a href="mailto:zk_1028@aliyun.com">
+    <img src="https://img.shields.io/badge/Email-zk__1028%40aliyun.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="mailto:zk_1028@aliyun.com?subject=Collaboration%20with%20Kun%20Zhan">
+    <img src="https://img.shields.io/badge/Connect-Schedule%20a%20chat-25D366?style=flat&logo=whatsapp&logoColor=white" alt="Contact">
+  </a>
+</div>
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=1J061HIAAAAJ&hl=en)
-[![Email](https://img.shields.io/badge/Email-zk__1028%40aliyun.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zk_1028@aliyun.com)
-[![Contact](https://img.shields.io/badge/Contact-Available%20on%20Request-25D366?style=flat&logo=whatsapp&logoColor=white)](mailto:zk_1028@aliyun.com)
+<div class="about-cta">
+  <a class="btn btn--primary" href="mailto:zk_1028@aliyun.com?subject=Speaking%20or%20Advisory%20Request">Request a collaboration</a>
+  <a class="btn" href="https://scholar.google.com/citations?user=1J061HIAAAAJ&hl=en">Browse publications</a>
+</div>
 
 ## 🔭 About Me
 
-I’m **Kun Zhan**, Senior Director of Vision-Language-Action (VLA) team at Li Auto, as well as the Site Manager of Li Auto’s U.S. R&D Center in Silicon Valley.
+I’m **Kun Zhan**, Senior Director of Li Auto’s Vision-Language-Action (VLA) organization and Site Manager of the company’s Silicon Valley R&D center. I build scalable teams that take frontier research in multimodal models, reinforcement learning, and world modeling all the way into mass-production vehicles.
 
-I received my master’s degree in Automation from Beihang University. I joined Baidu Apollo in 2017, leading work on behavior prediction. In 2021, I joined Li Auto to build our autonomous-driving technology stack from the ground up. Since then, our team has delivered a series of milestones — Highway NoA (2022), City NoA (2023), End-to-End + VLM dual-system architecture (2024), and the VLA framework (2025).
+My journey started with a master’s degree in Automation from Beihang University, followed by leading Baidu Apollo’s behavior prediction team. Since joining Li Auto in 2021, I have been responsible for architecting and deploying three generations of autonomous-driving stacks, culminating in the current VLA framework that unifies large-model cognition with automotive-grade reliability.
 
-Over the years, I’ve led development across the full autonomous-driving pipeline — from behavior prediction and static/dynamic perception to large-scale foundation-model research in world models, VLMs, and reinforcement learning. Our team pioneered the dual-system architecture that unifies large-model cognition with engineering reliability.
+> My mission is to realize physical-world AGI, with autonomous driving as the proving ground for safe, embodied intelligence.
 
-My long-term mission is to realize physical world AGI — autonomous driving is only the first step toward more intelligent, dependable, and embodied AI systems.
+### Key Highlights
 
+- **Scaled leadership**: Direct a 100+ person global org spanning perception, prediction, planning, simulation, and foundation-model training.
+- **Production impact**: Delivered Highway NoA (2022), City NoA (2023), End-to-End + VLM dual-system (2024), and the new VLA stack (2025) to mass-produced Li Auto vehicles.
+- **Global footprint**: Built Li Auto’s U.S. research hub, aligning Silicon Valley exploration with Beijing HQ execution.
 
 ## 🌟 Research Interests
 
-- **Autonomous Driving**: Vision-Language-Action(VLA) Model, End-to-end autonomous driving systems, decision-making and planning
-- **Computer Vision**: Object detection and tracking, scene understanding
-- **3D Vision**: 3D perception, reconstruction, and modeling
-- **Large Language Models**: Applications of multimodal large models in autonomous driving
-- **World Models**: Environment reconstruction and generation, reinforcement learning
+- **Autonomous Driving**: Vision-Language-Action (VLA) models, end-to-end driving systems, decision-making and planning
+- **Computer Vision**: Object detection/tracking, scene understanding, BEV perception
+- **3D & World Models**: Dynamic scene reconstruction, generative simulation, reinforcement learning at fleet scale
+- **Multimodal LLMs**: Applying large vision-language models to cognition, planning, and driver-vehicle interaction
 
 ## 💼 Work Experience
 
 ### **Li Auto** | Apr 2021 – Present
-**Head of VLA Models, VLA Algorithm Owner**
-- Direct a more than 100-person org covering perception, planning, foundation-model training, and on-vehicle inference.
-- Delivered three generations of AI stacks (E2E → VLM → VLA) into mass-production pipelines.
-- Established and lead a dedicated world-model group for reinforcement learning and closed-loop simulation.
-- Previously headed the Prediction, Static BEV, Driving Perception, and Large-Model teams.
+**Senior Director, Head of VLA Models & Algorithm Owner**
+- Built Li Auto’s end-to-end autonomous stack from scratch, progressing from E2E → VLM → VLA architectures that now operate on hundreds of thousands of customer vehicles.
+- Assemble and mentor a 100+ member org across perception, planning, foundation models, simulation, and on-vehicle deployment with a strong applied-research culture.
+- Established a dedicated world-model and RL group to accelerate closed-loop learning and reduce real-world testing costs by double digits.
 
 **Site Manager, U.S. R&D Center (San Jose, CA)**
-- Built Li Auto’s overseas research hub.
-- Own local strategy, budgeting, and cross-border collaboration with Beijing HQ, accelerating global talent acquisition and technology transfer.
+- Launched Li Auto’s overseas research hub, covering local strategy, budgeting, and talent acquisition.
+- Bridge Silicon Valley innovation with Beijing execution by running cross-border program reviews, ensuring roadmaps stay synchronized.
 
-### **Baidu** | Apr 2016 – Mar 2021
-**Autonomous-Driving Engineering, Apollo L4 Team**
-- Served as Algorithm Lead for Prediction; designed L4 prediction pre-decision algorithms for robo-taxi operations.
-- Developed planning-and-control (PnC) algorithms and deep-learning onboard modules for L4 pilots.
+### **Baidu Apollo** | Apr 2016 – Mar 2021
+**Algorithm Lead, L4 Prediction & Planning**
+- Led the L4 prediction pre-decision algorithms for robo-taxi pilots, improving motion-forecasting reliability for complex urban interactions.
+- Shipped planning-and-control modules and deep-learning onboard components that powered Baidu’s autonomous fleets in Beijing and Guangzhou.
 
 ## 📚 Academic Achievements
 
-### Citation Statistics
-- Top Papers: 39
-- Total Citations: 969
-- h-index: 12
-- i10-index: 15
+### Citation Snapshot
+- **Top papers**: 39
+- **Total citations**: 969
+- **h-index**: 12 | **i10-index**: 15
 
 ### Selected Publications
 
-1. **Drivevlm: The convergence of autonomous driving and large vision-language models** (2024)
-   X Tian, J Gu, B Li, Y Liu, Y Wang, Z Zhao, **K Zhan**, P Jia, X Lang, H Zhao
-   *arXiv preprint arXiv:2402.12289*
+1. **DriveVLM: The convergence of autonomous driving and large vision-language models** (arXiv 2024)  
+   X. Tian, J. Gu, B. Li, Y. Liu, Y. Wang, Z. Zhao, **K. Zhan**, P. Jia, X. Lang, H. Zhao.
+2. **Street Gaussians: Modeling dynamic urban scenes with Gaussian splatting** (ECCV 2024)  
+   Y. Yan, H. Lin, C. Zhou, W. Wang, H. Sun, **K. Zhan**, X. Lang, X. Zhou, S. Peng.
+3. **PlanAgent: A multimodal LLM agent for closed-loop vehicle motion planning** (arXiv 2024)  
+   Y. Zheng, Z. Xing, Q. Zhang, B. Jin, P. Li, Y. Zheng, Z. Xia, **K. Zhan**, X. Lang, D. Zhao.
+4. **Unleashing generalization of end-to-end autonomous driving with controllable long video generation** (arXiv 2024)  
+   E. Ma, L. Zhou, T. Tang, Z. Zhang, D. Han, J. Jiang, **K. Zhan**, P. Jia, X. Lang, K. Yu.
+5. **Recondreamer: Crafting world models for driving scene reconstruction via online restoration** (CVPR 2025)  
+   C. Ni, G. Zhao, X. Wang, Z. Zhu, W. Qin, G. Huang, C. Liu, Y. Chen, Y. Wang, **K. Zhan**, X. Lang, X. Wang, W. Mei.
 
-2. **Street gaussians: Modeling dynamic urban scenes with gaussian splatting** (2024)
-   Y Yan, H Lin, C Zhou, W Wang, H Sun, **K Zhan**, X Lang, X Zhou, S Peng
-   *European Conference on Computer Vision, 156-173*
+_Full publication list available on [Google Scholar](https://scholar.google.com/citations?user=1J061HIAAAAJ&hl=en)._
 
-3. **Planagent: A multi-modal large language agent for closed-loop vehicle motion planning** (2024)
-   Y Zheng, Z Xing, Q Zhang, B Jin, P Li, Y Zheng, Z Xia, **K Zhan**, X Lang, D Zhao
-   *arXiv preprint arXiv:2406.01587*
-
-4. **Unleashing generalization of end-to-end autonomous driving with controllable long video generation** (2024)
-   E Ma, L Zhou, T Tang, Z Zhang, D Han, J Jiang, **K Zhan**, P Jia, X Lang, K Yu
-   *arXiv preprint arXiv:2406.01349*
-
-5. **Recondreamer: Crafting world models for driving scene reconstruction via online restoration** (2025)
-   C Ni, G Zhao, X Wang, Z Zhu, W Qin, G Huang, C Liu, Y Chen, Y Wang, **K Zhan**, X Lang, X Wang, W Mei
-   *Proceedings of the Computer Vision and Pattern Recognition Conference, 1559-1569*
-
-### Patents
-- 18 Chinese Patents
-- 2 US Patents
-
-### Academic Service
-- **Program Committee/Reviewer**: CVPR, ICCV, ECCV, NeurIPS, AAAI, IROS
-- **Journal Reviewer**: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Intelligent Transportation Systems (T-ITS), IEEE Transactions on Intelligent Vehicles (T-IV)
-- **Workshop Organizer**: Autonomous Driving Workshop at CVPR 2023
+### Patents & Service
+- 20 patents granted/issued: 18 CN + 2 US across perception, planning, and HD mapping pipelines.
+- Reviewer: CVPR, ICCV, ECCV, NeurIPS, AAAI, IROS; Journals—TPAMI, T-ITS, T-IV.
+- Organizer: CVPR 2023 Autonomous Driving Workshop; frequent speaker on VLA model deployment.
