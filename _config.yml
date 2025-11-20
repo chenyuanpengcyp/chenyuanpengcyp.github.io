@@ -4,7 +4,7 @@
 
 title: 詹锟 | Kun Zhan # the website title (if blank, full name will be used instead)
 first_name: Kun
-middle_name: 
+middle_name:
 last_name: Zhan
 google_scholar_id: 1J061HIAAAAJ
 contact_note: >
@@ -88,8 +88,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Kun's Blog # blog_name will be displayed in your blog page
+blog_description: AI & Autonomous Driving
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
