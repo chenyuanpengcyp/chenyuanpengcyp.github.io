@@ -92,22 +92,22 @@ My journey started with a master’s degree in Automation from Beihang Universit
 ## 📚 Academic Achievements
 
 ### Citation Snapshot
-- **Top papers**: 39
-- **Total citations**: 969
-- **h-index**: 12 | **i10-index**: 15
+- **Top papers**: 45
+- **Total citations**: 1130
+- **h-index**: 15 | **i10-index**: 17
 
 ### Selected Publications
 
-1. **DriveVLM: The convergence of autonomous driving and large vision-language models** (arXiv 2024)  
+1. **DriveVLM: The convergence of autonomous driving and large vision-language models** (CoRL 2024)
    X. Tian, J. Gu, B. Li, Y. Liu, Y. Wang, Z. Zhao, **K. Zhan**, P. Jia, X. Lang, H. Zhao.
-2. **Street Gaussians: Modeling dynamic urban scenes with Gaussian splatting** (ECCV 2024)  
+2. **Street Gaussians: Modeling dynamic urban scenes with Gaussian splatting** (ECCV 2024)
    Y. Yan, H. Lin, C. Zhou, W. Wang, H. Sun, **K. Zhan**, X. Lang, X. Zhou, S. Peng.
-3. **PlanAgent: A multimodal LLM agent for closed-loop vehicle motion planning** (arXiv 2024)  
-   Y. Zheng, Z. Xing, Q. Zhang, B. Jin, P. Li, Y. Zheng, Z. Xia, **K. Zhan**, X. Lang, D. Zhao.
-4. **Unleashing generalization of end-to-end autonomous driving with controllable long video generation** (arXiv 2024)  
-   E. Ma, L. Zhou, T. Tang, Z. Zhang, D. Han, J. Jiang, **K. Zhan**, P. Jia, X. Lang, K. Yu.
-5. **Recondreamer: Crafting world models for driving scene reconstruction via online restoration** (CVPR 2025)  
+3. **Recondreamer: Crafting world models for driving scene reconstruction via online restoration** (CVPR 2025)  
    C. Ni, G. Zhao, X. Wang, Z. Zhu, W. Qin, G. Huang, C. Liu, Y. Chen, Y. Wang, **K. Zhan**, X. Lang, X. Wang, W. Mei.
+4. **PlanAgent: A multimodal LLM agent for closed-loop vehicle motion planning** (IEEE ITS 2024)  
+   Y. Zheng, Z. Xing, Q. Zhang, B. Jin, P. Li, Y. Zheng, Z. Xia, **K. Zhan**, X. Lang, D. Zhao.
+5. **Unleashing generalization of end-to-end autonomous driving with controllable long video generation** (arXiv 2024)  
+   E. Ma, L. Zhou, T. Tang, Z. Zhang, D. Han, J. Jiang, **K. Zhan**, P. Jia, X. Lang, K. Yu.
 
 _Full publication list available on [Google Scholar](https://scholar.google.com/citations?user=1J061HIAAAAJ&hl=en)._
 
