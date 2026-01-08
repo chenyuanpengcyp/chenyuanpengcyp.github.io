@@ -1,25 +1,21 @@
 ---
 layout: about
-title: Kun Zhan | Li Auto VLA
+title: Yuanpeng Chen 
 permalink: /
 lang: en
-subtitle: Senior Director of VLA Models at <a href='https://www.lixiang.com/'>Li Auto</a>
-description: Kun Zhan is Senior Director of the Vision-Language-Action organization at Li Auto, leading mass-production autonomous-driving systems and foundation models.
 keywords:
-  - Kun Zhan
-  - Li Auto
+  - Yuanpeng Chen
   - Vision-Language-Action
   - Autonomous Driving
-  - AI Leadership
 
 profile:
   align: right
   image: portrait.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Email: zk_1028@aliyun.com</p>
-    <p>WeChat: KevinZhan1990</p>
-    <p>Beijing, China</p>
+    <p>Email: chenyuanpengcyp@gmail.com</p>
+    <p>WeChat: chenyuanpeng24</p>
+    <p>Shanghai, China</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
