@@ -30,22 +30,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<div class="about-badges">
-  <a href="https://scholar.google.com/citations?user=1J061HIAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar">
-  </a>
-  <a href="mailto:zk_1028@aliyun.com">
-    <img src="https://img.shields.io/badge/Email-zk__1028%40aliyun.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="mailto:zk_1028@aliyun.com?subject=Collaboration%20with%20Kun%20Zhan">
-    <img src="https://img.shields.io/badge/Connect-Schedule%20a%20chat-25D366?style=flat&logo=whatsapp&logoColor=white" alt="Contact">
-  </a>
-</div>
-
-<div class="about-cta">
-  <a class="btn btn--primary" href="mailto:zk_1028@aliyun.com?subject=Speaking%20or%20Advisory%20Request">Request a collaboration</a>
-  <a class="btn" href="https://scholar.google.com/citations?user=1J061HIAAAAJ&hl=en">Browse publications</a>
-</div>
 
 ## 🔭 About Me
 
