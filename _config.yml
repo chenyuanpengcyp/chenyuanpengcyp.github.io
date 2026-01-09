@@ -6,7 +6,6 @@ title: 陈远鹏 | Yuanpeng Chen # the website title (if blank, full name will b
 first_name: Chen
 middle_name: 
 last_name: Yuanpeng
-#google_scholar_id: 1J061HIAAAAJ
 contact_note: >
   Feel free to reach out via email for collaborations, research discussions, or opportunities.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -19,7 +18,7 @@ keywords: autonomous driving, computer vision, large language models, world mode
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🚗 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://chenyuanpnegcyp.github.io # the base hostname & protocol for your site
+url: https://chenyuanpengcyp.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -311,7 +310,6 @@ filtered_bibtex_keywords:
     bibtex_show,
     blog,
     code,
-    #google_scholar_id,
     html,
     inspirehep_id,
     pdf,
