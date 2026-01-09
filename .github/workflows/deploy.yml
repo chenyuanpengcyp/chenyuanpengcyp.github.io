@@ -3,10 +3,9 @@ name: Build and Deploy Website
 on:
   push:
     branches:
-      - main  # 如果您的主分支是 master, 请改成 master
+      - master  # 您的主分支是 master
   workflow_dispatch:
 
-# 关键！授予创建和写入 gh-pages 分支所必需的权限！
 permissions:
   contents: write
 
@@ -16,12 +15,14 @@ jobs:
     steps:
       - name: Checkout Repository 🛎️
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # 明确提供访问代码所需的 token
 
       - name: Setup Ruby and Install Dependencies 💎
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
-          bundler-cache: true # 自动运行 bundle install
+          bundler-cache: true
 
       - name: Build Jekyll Site 🔧
         run: |
@@ -29,8 +30,7 @@ jobs:
           bundle exec jekyll build
 
       - name: Deploy to gh-pages Branch 🚀
-        # 使用这个经过无数验证的部署工具
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages # 明确指定目标分支
-          folder: _site   # 明确指定网站内容所在的文件夹
+          branch: gh-pages
+          folder: _site
