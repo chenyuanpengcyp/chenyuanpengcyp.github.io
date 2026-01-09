@@ -400,7 +400,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%7A%6B_%31%30%32%38@%61%6C%69%79%75%6E.%63%6F%6D", "_blank");
+          window.open("mailto:%63%68%65%6E%79%75%61%6E%70%65%6E%67%63%79%70@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-rss',
@@ -410,18 +410,11 @@ ninja.data = [{
           window.open("/feed.xml", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=1J061HIAAAAJ", "_blank");
-        },
-      },{
         id: 'social-whatsapp',
         title: 'whatsapp',
         section: 'Socials',
         handler: () => {
-          window.open("https://wa.me/15210600944", "_blank");
+          window.open("https://wa.me/chenyuanpeng24", "_blank");
         },
       },{
         id: 'social-custom_social',
