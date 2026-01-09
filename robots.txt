@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://chenyuanpnegcyp.github.io/sitemap.xml
+Sitemap: https://chenyuanpengcyp.github.io/sitemap.xml
