@@ -2,24 +2,24 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: 詹锟 | Kun Zhan # the website title (if blank, full name will be used instead)
-first_name: Kun
+title: 陈远鹏 | Yuanpeng Chen # the website title (if blank, full name will be used instead)
+first_name: Chen
 middle_name: 
-last_name: Zhan
-google_scholar_id: 1J061HIAAAAJ
+last_name: Yuanpeng
+#google_scholar_id: 1J061HIAAAAJ
 contact_note: >
   Feel free to reach out via email for collaborations, research discussions, or opportunities.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Kun Zhan's personal website. Autonomous driving expert, AI researcher, and cognitive intelligence lead at Li Auto.
+  Yuanpeng Chen's personal website. An Algorithm expert and researcher specializing in autonomous driving, 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: autonomous driving, computer vision, 3D vision, large language models, world models, AI, machine learning, robotics # add your own keywords or leave empty
+keywords: autonomous driving, computer vision, large language models, world models, robotics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🚗 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://ZhanKunLiAuto.github.io # the base hostname & protocol for your site
+url: https://chenyuanpnegcyp.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -294,7 +294,7 @@ scholar:
 enable_publication_badges:
   altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
   dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
-  google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
+  google_scholar: false # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
   inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
@@ -311,7 +311,7 @@ filtered_bibtex_keywords:
     bibtex_show,
     blog,
     code,
-    google_scholar_id,
+    #google_scholar_id,
     html,
     inspirehep_id,
     pdf,
