@@ -12,7 +12,7 @@ profile:
   more_info: >
     <p>Email: chenyuanpengcyp@gmail.com</p>
     <p>微信: chenyuanpeng24</p>
-    <p>shanghai，中国</p>
+    <p>上海，中国</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -31,18 +31,38 @@ latest_posts:
 
 ## 🔭 关于我
 
-我是**陈远鹏**，一名资深的算法专家与团队负责人，专注于架构和部署可量产的自动驾驶系统。
+我是**陈远鹏**，资深算法专家与团队负责人，长期专注于可量产自动驾驶系统的算法架构、工程落地与性能优化。我的工作覆盖端到端自动驾驶、BEV 感知、视觉-语言-行为（VLA）模型、世界模型，以及面向边缘端的大模型高效推理与部署。
 
-我的职业生涯始于对神经网络效率的基础研究，并逐步成长为从零到一搭建核心视觉团队的负责人。多年来，我一直致力于将前沿研究（如端到端架构、视觉-语言-行为模型、世界模型）与严苛的量产需求相结合，
-并成功交付了行业顶尖的系统，其中包括已在量产车上运行的端到端解决方案。
+我参与并主导过从研究探索、系统设计、模型训练、部署优化到量产验证的完整研发流程。相比单纯追求离线指标，我更关注如何把前沿 AI 方法转化为稳定、高效、可维护的车端系统，让算法真正经受真实道路、算力约束和工程边界的检验。
 
-近期，我主导设计了专为部署而生的顶尖BEV感知框架FastBEV++，它在低功耗车规级芯片上实现了实时性能，并开创了无需自定义算子的“OneModel”跨平台部署策略。此外，
-我带领团队应用InternVL-6B等前沿技术构建了先进的决策系统，荣获PRCV 2024 DriveLM挑战赛一等奖。
+近期，我主导设计了面向部署的 BEV 感知框架 FastBEV++，该工作已被 IROS 2026 录用；它在低功耗车规级芯片上实现实时性能，并探索了无需自定义算子的 “OneModel” 跨平台部署策略。我也带领团队将 InternVL-6B、LoRA、RLHF 等技术应用于驾驶场景理解与决策推理，获得 PRCV 2024 DriveLM 挑战赛一等奖。
 
-我的长期使命是为物理世界构建真正的具身智能，并将自动驾驶作为其试炼场。我致力于创造能够对环境形成因果和预测性理解的AI系统，使其能够安全、直观地预判并驾驭复杂真实世界的交互。
+我的长期目标是面向物理世界构建具身智能，并以自动驾驶作为重要试验场。我关注能够理解动态场景、预测交互演化、形成因果认知并做出安全决策的 AI 系统。
+
+### 重点经历
+
+- **面向量产的 BEV 感知架构**：主导 IROS 2026 录用工作 FastBEV++，在低功耗车规级 SoC 上实现实时推理，并支持无自定义算子的跨平台部署。
+- **端到端系统研发**：从零到一推进统一感知系统的方案设计、研发迭代与量产验证。
+- **视觉语言驾驶智能**：带领团队获得 PRCV 2024 DriveLM 挑战赛一等奖，将多模态大模型用于驾驶场景理解与决策推理。
+- **边缘端 VLM 高效推理**：开源 [EdgeFM](https://github.com/windog-labs/edge-fm-x)，面向视觉语言模型的边缘端大模型高效推理引擎。
+- **资源高效的视觉生成**：研发并开源 [EasyVFX](https://github.com/mayuelala/EasyVFX)，通过频域驱动解耦实现资源高效的 VFX 生成，该工作已被 SIGGRAPH 2026 录用。
+- **硬件感知优化**：通过量化感知训练、模型压缩和部署友好的网络设计，提升车端推理效率。
 
 ## 🌟 研究兴趣
 
-- **自动驾驶**: 视觉-语言-行为 (VLA) 模型，端到端自动驾驶系统， 多模态大模型应用
-- **世界模型与仿真**: 动态场景理解，生成式仿真，大规模强化学习
-- **可部署的AI**: 大模型推理引擎优化，模型压缩，以及弥合算法性能与车载部署之间的差距
+- **自动驾驶**：VLA 模型、端到端自动驾驶系统、BEV 感知、多模态场景理解
+- **世界模型与仿真**：动态场景建模、生成式仿真、高效视觉生成、闭环评测、大规模强化学习
+- **可部署 AI**：边缘端多模态大模型推理优化、模型压缩、量化部署、面向硬件的算法设计
+
+## 📚 学术成果
+
+1. **FastBEV++: Fast by Algorithm, Deployable by Design** (IROS 2026)
+   Y. Chen, H. Song, W. Tao, S. Mo, S. Zhang, X. Hua, T. Zhao. arXiv:2512.08237
+2. **EdgeFM: Efficient Edge Inference for Vision-Language Models**
+   开源项目：[github.com/windog-labs/edge-fm-x](https://github.com/windog-labs/edge-fm-x)
+3. **EasyVFX: Frequency-Driven Decoupling for Resource-Efficient VFX Generation** (SIGGRAPH 2026)
+   开源项目：[github.com/mayuelala/EasyVFX](https://github.com/mayuelala/EasyVFX)
+4. **Precise Drive with VLM: First Prize Solution for PRCV 2024 DriveLM Challenge**
+   B. Huang, S. Wang, Y. Chen, Y. Wu, H. Song, Z. Ding, et al.
+5. **RTN: Reparameterized Ternary Network** (AAAI 2020)
+   Y. Li, X. Dong, S. Q. Zhang, H. Bai, Y. Chen, W. Wang

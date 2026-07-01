@@ -33,32 +33,38 @@ latest_posts:
 
 ## 🔭 About Me
 
-I’m **Yuanpeng Chen**, a senior algorithm expert and team leader specializing in architecting and deploying production-ready autonomous driving systems. My work focuses on bridging the gap between frontier research in End-to-End architectures, Vision-Language-Action (VLA) models, and World Models, and the rigorous demands of mass production. I specialize in the full lifecycle of algorithm development, from conceptual design and team leadership to hands-on optimization of large model inference engines on automotive-grade hardware.
+I am **Yuanpeng Chen**, a senior algorithm expert and team lead focused on production-ready autonomous driving systems. My work sits at the intersection of end-to-end driving, BEV perception, Vision-Language-Action (VLA) models, world models, and efficient edge inference for large multi-modal models.
 
-My career has been a progression of increasing responsibility, from foundational research on neural network efficiency to leading a core vision team from scratch (0 to 1). I have a proven track record of delivering state-of-the-art systems, including BEV perception solutions that are now running on production vehicles.
+I have led algorithm development across the full lifecycle, from research exploration and system architecture to model optimization, engineering validation, and mass-production deployment. My recent work emphasizes how to turn frontier AI methods into reliable, efficient systems that can operate under real vehicle constraints.
 
-> My mission is to build true embodied intelligence for the physical world, using autonomous driving as the proving ground. I focus on creating AI systems that develop a causal and predictive understanding of their environment, enabling them to anticipate and navigate the complexities of real-world interactions safely and intuitively.
+My long-term goal is to build embodied intelligence for the physical world, using autonomous driving as a demanding testbed. I am especially interested in systems that can understand dynamic scenes, reason about future interactions, and make safe decisions with both predictive and causal awareness.
 
 ### Key Highlights
 
-- **Production-First Architecture**: Architected FastBEV++, a state-of-the-art BEV perception framework designed for deployment. Achieved real-time performance (10 FPS) on low-power automotive SoCs and pioneered a "OneModel" cross-platform deployment strategy that requires no custom operators.
-- **End-to-End System Development (0 to 1)**: Architected and led the full R&D lifecycle of a unified End-to-End perception system, taking it from initial concept to a production-validated framework.
-- **Award-Winning VLM Application**: Led my team to win First Prize at the PRCV 2024 DriveLM Challenge by building an advanced decision-making system leveraging InternVL-6B, LoRA, and RLHF techniques.
-- **Hardware-Aware Performance Optimization**: Achieved up to 2x inference acceleration on low-power automotive SoCs (e.g., MTK8665) using advanced quantization-aware training (QAT), demonstrating deep expertise in model deployment.
+- **Production-oriented BEV perception**: Architected FastBEV++, a deployable BEV perception framework accepted to IROS 2026 that reaches real-time performance on low-power automotive SoCs and supports a "OneModel" cross-platform deployment strategy without custom operators.
+- **End-to-end system development**: Led the design and development of unified perception systems from early-stage research to production validation.
+- **Vision-language driving intelligence**: Led the team that won First Prize in the PRCV 2024 DriveLM Challenge, applying InternVL-6B, LoRA, and RLHF techniques to driving-scene understanding and decision reasoning.
+- **Efficient edge inference for VLMs**: Open-sourced [EdgeFM](https://github.com/windog-labs/edge-fm-x), an efficient edge inference engine for vision-language models.
+- **Resource-efficient visual generation**: Developed and open-sourced [EasyVFX](https://github.com/mayuelala/EasyVFX), a frequency-driven decoupling method for resource-efficient VFX generation, accepted to SIGGRAPH 2026.
+- **Hardware-aware optimization**: Improved inference efficiency on automotive platforms through quantization-aware training, model compression, and deployment-oriented network design.
 
 
 ## 🌟 Research Interests
 
-- **Autonomous Driving:**: Vision-Language-Action (VLA) models, End-to-End Driving Systems
-- **World Models & Simulation**: Dynamic scene understanding, generative simulation, and reinforcement learning at scale 
-- **Deployable AI**: Large Model Inference Engine optimization, model compression, and bridging the gap between algorithmic performance and on-vehicle deployment 
+- **Autonomous Driving**: VLA models, end-to-end driving systems, BEV perception, and multi-modal scene understanding
+- **World Models & Simulation**: Dynamic scene modeling, generative simulation, efficient visual generation, closed-loop evaluation, and scalable reinforcement learning
+- **Deployable AI**: Edge inference for large multi-modal models, model compression, quantization, and hardware-aware algorithm design
 
 
 ## 📚 Academic Achievements
 
-1. **FastBEV++: Fast by Algorithm, Deployable by Design** (arXiv 2025)
+1. **FastBEV++: Fast by Algorithm, Deployable by Design** (IROS 2026)
    Y. Chen, H. Song, W. Tao, S. Mo, S. Zhang, X. Hua, T. Zhao. arXiv:2512.08237
-2. **Precise Drive with VLM: First Prize Solution for PRCV 2024 Drive LM challenge** 
+2. **EdgeFM: Efficient Edge Inference for Vision-Language Models**
+   Open-source project: [github.com/windog-labs/edge-fm-x](https://github.com/windog-labs/edge-fm-x)
+3. **EasyVFX: Frequency-Driven Decoupling for Resource-Efficient VFX Generation** (SIGGRAPH 2026)
+   Open-source project: [github.com/mayuelala/EasyVFX](https://github.com/mayuelala/EasyVFX)
+4. **Precise Drive with VLM: First Prize Solution for PRCV 2024 DriveLM Challenge**
    B. Huang, S. Wang, Y. Chen, Y. Wu, H. Song, Z. Ding, et al.
-3. **RTN: Reparameterized Ternary Network** (AAAI 2020)  
+5. **RTN: Reparameterized Ternary Network** (AAAI 2020)
    Y. Li, X. Dong, S. Q. Zhang, H. Bai, Y. Chen, W. Wang
