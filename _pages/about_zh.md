@@ -41,7 +41,7 @@ latest_posts:
 
 ### 重点经历
 
-- **面向量产的 BEV 感知架构**：主导 IROS 2026 录用工作 FastBEV++，在低功耗车规级 SoC 上实现实时推理，并支持无自定义算子的跨平台部署。
+- **面向量产的 BEV 感知架构**：主导并开源 [FastBEV++](https://github.com/ymlab/advanced-fastbev)，该工作被 IROS 2026 录用，在低功耗车规级 SoC 上实现实时推理，并支持无自定义算子的跨平台部署。
 - **端到端系统研发**：从零到一推进统一感知系统的方案设计、研发迭代与量产验证。
 - **视觉语言驾驶智能**：带领团队获得 PRCV 2024 DriveLM 挑战赛一等奖，将多模态大模型用于驾驶场景理解与决策推理。
 - **边缘端 VLM 高效推理**：开源 [EdgeFM](https://github.com/windog-labs/edge-fm-x)，面向视觉语言模型的边缘端大模型高效推理引擎。
@@ -58,6 +58,7 @@ latest_posts:
 
 1. **FastBEV++: Fast by Algorithm, Deployable by Design** (IROS 2026)
    Y. Chen, H. Song, W. Tao, S. Mo, S. Zhang, X. Hua, T. Zhao. arXiv:2512.08237
+   开源项目：[github.com/ymlab/advanced-fastbev](https://github.com/ymlab/advanced-fastbev)
 2. **EdgeFM: Efficient Edge Inference for Vision-Language Models**
    开源项目：[github.com/windog-labs/edge-fm-x](https://github.com/windog-labs/edge-fm-x)
 3. **EasyVFX: Frequency-Driven Decoupling for Resource-Efficient VFX Generation** (SIGGRAPH 2026)

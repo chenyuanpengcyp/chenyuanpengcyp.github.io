@@ -41,7 +41,7 @@ My long-term goal is to build embodied intelligence for the physical world, usin
 
 ### Key Highlights
 
-- **Production-oriented BEV perception**: Architected FastBEV++, a deployable BEV perception framework accepted to IROS 2026 that reaches real-time performance on low-power automotive SoCs and supports a "OneModel" cross-platform deployment strategy without custom operators.
+- **Production-oriented BEV perception**: Architected and open-sourced [FastBEV++](https://github.com/ymlab/advanced-fastbev), a deployable BEV perception framework accepted to IROS 2026 that reaches real-time performance on low-power automotive SoCs and supports a "OneModel" cross-platform deployment strategy without custom operators.
 - **End-to-end system development**: Led the design and development of unified perception systems from early-stage research to production validation.
 - **Vision-language driving intelligence**: Led the team that won First Prize in the PRCV 2024 DriveLM Challenge, applying InternVL-6B, LoRA, and RLHF techniques to driving-scene understanding and decision reasoning.
 - **Efficient edge inference for VLMs**: Open-sourced [EdgeFM](https://github.com/windog-labs/edge-fm-x), an efficient edge inference engine for vision-language models.
@@ -60,6 +60,7 @@ My long-term goal is to build embodied intelligence for the physical world, usin
 
 1. **FastBEV++: Fast by Algorithm, Deployable by Design** (IROS 2026)
    Y. Chen, H. Song, W. Tao, S. Mo, S. Zhang, X. Hua, T. Zhao. arXiv:2512.08237
+   Open-source project: [github.com/ymlab/advanced-fastbev](https://github.com/ymlab/advanced-fastbev)
 2. **EdgeFM: Efficient Edge Inference for Vision-Language Models**
    Open-source project: [github.com/windog-labs/edge-fm-x](https://github.com/windog-labs/edge-fm-x)
 3. **EasyVFX: Frequency-Driven Decoupling for Resource-Efficient VFX Generation** (SIGGRAPH 2026)
