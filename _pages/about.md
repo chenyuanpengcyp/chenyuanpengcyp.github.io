@@ -33,16 +33,20 @@ latest_posts:
 
 ## 🔭 About Me
 
-I am **Yuanpeng Chen**, a senior algorithm expert and team lead focused on production-ready autonomous driving systems. My work sits at the intersection of end-to-end driving, BEV perception, Vision-Language-Action (VLA) models, world models, and efficient edge inference for large multi-modal models.
+I am **Yuanpeng Chen**, a senior algorithm expert and team lead working on production autonomous driving and deployable multi-modal AI. My work connects vehicle-scale perception and decision systems with end-to-end driving, BEV perception, Vision-Language-Action (VLA) models, world models, and efficient edge inference.
 
-I have led algorithm development across the full lifecycle, from research exploration and system architecture to model optimization, engineering validation, and mass-production deployment. My recent work emphasizes how to turn frontier AI methods into reliable, efficient systems that can operate under real vehicle constraints.
+I have led algorithm development across the full lifecycle, from research exploration and system architecture to model training, inference optimization, engineering validation, and mass-production deployment. I care about systems where model design, data strategy, training pipeline, inference engine, and hardware constraints are considered together, because that is where research becomes usable in real vehicles and edge devices.
 
-My long-term goal is to build embodied intelligence for the physical world, using autonomous driving as a demanding testbed. I am especially interested in systems that can understand dynamic scenes, reason about future interactions, and make safe decisions with both predictive and causal awareness.
+My recent work follows a consistent direction: making advanced AI models both capable and deployable. FastBEV++ explores production-oriented BEV perception; EdgeFM focuses on efficient edge inference for vision-language models; EasyVFX studies resource-efficient visual generation; and our DriveLM work applies VLMs to driving-scene understanding and decision reasoning.
+
+### Research Vision
+
+I view autonomous driving as one of the most demanding testbeds for embodied intelligence. The next generation of intelligent systems should unify perception, language, prediction, generation, and action, while remaining efficient enough to run on real edge and vehicle platforms. My goal is to build AI systems that understand dynamic scenes, reason about future interactions, and make safe decisions with both predictive and causal awareness.
 
 ### Key Highlights
 
 - **Production-oriented BEV perception**: Architected and open-sourced [FastBEV++](https://github.com/ymlab/advanced-fastbev), a deployable BEV perception framework accepted to IROS 2026 that reaches real-time performance on low-power automotive SoCs and supports a "OneModel" cross-platform deployment strategy without custom operators.
-- **End-to-end system development**: Led the design and development of unified perception systems from early-stage research to production validation.
+- **System-level engineering**: Led unified perception systems from early-stage research to production validation, covering model design, optimization, and deployment.
 - **Vision-language driving intelligence**: Led the team that won First Prize in the PRCV 2024 DriveLM Challenge, applying InternVL-6B, LoRA, and RLHF techniques to driving-scene understanding and decision reasoning.
 - **Efficient edge inference for VLMs**: Open-sourced [EdgeFM](https://github.com/windog-labs/edge-fm-x), an efficient edge inference engine for vision-language models.
 - **Resource-efficient visual generation**: Developed and open-sourced [EasyVFX](https://github.com/mayuelala/EasyVFX), a frequency-driven decoupling method for resource-efficient VFX generation, accepted to SIGGRAPH 2026.
