@@ -62,14 +62,16 @@ I view autonomous driving as one of the most demanding testbeds for embodied int
 
 ## 📚 Academic Achievements
 
-1. **FastBEV++: Fast by Algorithm, Deployable by Design** (IROS 2026)
+1. **[Rethinking Text-Based Image Retrieval in Specific Domain](https://arxiv.org/abs/2608.10524)** (arXiv 2026)
+   J. Tan, S. Yang, Y. Chen, J. Wang, N. Ye, C. Xing, L. Jia. arXiv:2608.10524
+2. **FastBEV++: Fast by Algorithm, Deployable by Design** (IROS 2026)
    Y. Chen, H. Song, W. Tao, S. Mo, S. Zhang, X. Hua, T. Zhao. arXiv:2512.08237
    Open-source project: [github.com/ymlab/advanced-fastbev](https://github.com/ymlab/advanced-fastbev)
-2. **EdgeFM: Efficient Edge Inference for Vision-Language Models**
+3. **EdgeFM: Efficient Edge Inference for Vision-Language Models**
    Open-source project: [github.com/windog-labs/edge-fm-x](https://github.com/windog-labs/edge-fm-x)
-3. **EasyVFX: Frequency-Driven Decoupling for Resource-Efficient VFX Generation** (SIGGRAPH 2026)
+4. **EasyVFX: Frequency-Driven Decoupling for Resource-Efficient VFX Generation** (SIGGRAPH 2026)
    Open-source project: [github.com/mayuelala/EasyVFX](https://github.com/mayuelala/EasyVFX)
-4. **Precise Drive with VLM: First Prize Solution for PRCV 2024 DriveLM Challenge**
+5. **Precise Drive with VLM: First Prize Solution for PRCV 2024 DriveLM Challenge**
    B. Huang, S. Wang, Y. Chen, Y. Wu, H. Song, Z. Ding, et al.
-5. **RTN: Reparameterized Ternary Network** (AAAI 2020)
+6. **RTN: Reparameterized Ternary Network** (AAAI 2020)
    Y. Li, X. Dong, S. Q. Zhang, H. Bai, Y. Chen, W. Wang
